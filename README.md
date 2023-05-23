@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/ZSETLU0.png" alt="Azure Logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1> Deployment of Virtual Machine in Azure </h1>
+This tutorial outlines the prerequisites and installation of Virtual machine and Resource group .<br />
 
 
 <h2>Video Demonstration</h2>
