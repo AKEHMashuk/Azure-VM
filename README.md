@@ -60,7 +60,9 @@ This tutorial outlines the prerequisites and installation of Virtual machine and
 <p>
 Step 1: Sign in to Azure Portal
 Go to the Azure Portal (portal.azure.com) and sign in using your Azure account credentials.
-
+<p>
+<img src="https://imgur.com/7oqumkW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 Step 2: Create a Resource Group
 Create a new or select an existing resource group. A resource group acts as a logical container for your virtual machine and associated resources. Click on "Create a resource" and search for "Resource group." Provide a name, select the desired region, and click on "Review + Create" to create the resource group.
 
