@@ -65,7 +65,9 @@ Go to the Azure Portal (portal.azure.com) and sign in using your Azure account c
 </p>
 Step 2: Create a Resource Group
 Create a new or select an existing resource group. A resource group acts as a logical container for your virtual machine and associated resources. Click on "Create a resource" and search for "Resource group." Provide a name, select the desired region, and click on "Review + Create" to create the resource group.
-
+<p>
+<img src="https://imgur.com/sTKDedm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 Step 3: Create a Virtual Network (VNet)
 Navigate to the resource group you just created and click on "Add." Search for "Virtual network" and click on "Create" to start creating a new virtual network. Provide a name, select the desired region, and configure the IP address range for the VNet. You can also create a subnet within the VNet if needed. Click on "Review + Create" to create the virtual network.
 
