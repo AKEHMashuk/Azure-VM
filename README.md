@@ -68,26 +68,23 @@ Create a new or select an existing resource group. A resource group acts as a lo
 <p>
 <img src="https://imgur.com/sTKDedm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 Step 3: Create a Virtual Network (VNet)
 Navigate to the resource group you just created and click on "Add." Search for "Virtual network" and click on "Create" to start creating a new virtual network. Provide a name, select the desired region, and configure the IP address range for the VNet. You can also create a subnet within the VNet if needed. Click on "Review + Create" to create the virtual network.
 
 Step 4: Create a Virtual Machine
-Inside the resource group, click on "Add" again. Search for "Virtual machine" and click on "Create" to start creating a new virtual machine.
-</p>
-<br />
+Inside the resource group, click on "Add" again. Search for "Virtual machine" and click on "Create" to start creating a new virtual machine. Or all the above process can be implemented all at once when created Virtual machine. 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img src="https://imgur.com/Numxyc4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p> 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Step 5: Monitor Deployment
+Azure will start deploying your virtual machine based on the provided configuration. You can monitor the progress in the Azure Portal by navigating to the resource group or the virtual machine itself. The deployment process may take a few minutes to complete.
+
+Step 6: Access and Manage Virtual Machine
+Once the deployment is successful, you can access and manage your virtual machine. You can use the Azure Portal's built-in features, such as Connect, to establish a remote desktop or SSH connection to the virtual machine. You can also install additional software, configure networking, and manage the virtual machine's resources based on your requirements.
+
+Remember to manage and monitor your virtual machine's resources, security, and backups regularly to ensure optimal performance, availability, and data protection.
+
+Disclaimer : This step-by-step process provides a general overview of the virtual machine deployment in Azure. The specific steps and configuration options may vary based on your requirements, Azure subscription type, and the latest updates from Microsoft. It's always recommended to refer to the Azure documentation for detailed and up-to-date instructions.
