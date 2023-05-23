@@ -55,10 +55,20 @@ This tutorial outlines the prerequisites and installation of Virtual machine and
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/7oqumkW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 1: Sign in to Azure Portal
+Go to the Azure Portal (portal.azure.com) and sign in using your Azure account credentials.
+
+Step 2: Create a Resource Group
+Create a new or select an existing resource group. A resource group acts as a logical container for your virtual machine and associated resources. Click on "Create a resource" and search for "Resource group." Provide a name, select the desired region, and click on "Review + Create" to create the resource group.
+
+Step 3: Create a Virtual Network (VNet)
+Navigate to the resource group you just created and click on "Add." Search for "Virtual network" and click on "Create" to start creating a new virtual network. Provide a name, select the desired region, and configure the IP address range for the VNet. You can also create a subnet within the VNet if needed. Click on "Review + Create" to create the virtual network.
+
+Step 4: Create a Virtual Machine
+Inside the resource group, click on "Add" again. Search for "Virtual machine" and click on "Create" to start creating a new virtual machine.
 </p>
 <br />
 
