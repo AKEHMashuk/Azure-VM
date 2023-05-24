@@ -3,7 +3,7 @@
 </p>
 
 <h1> Deployment of Virtual Machine in Azure </h1>
-This tutorial outlines the prerequisites and installation of Virtual machine and Resource group .<br />
+This tutorial outlines the prerequisites and installation of Virtual machine with Resource group .<br />
 
 
 
